@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'apimateus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EAA448CFA1464A0C8052469F6985464E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B80C2E30ABB4DC5AFC17611D1469051 }}
           package: .
